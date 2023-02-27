@@ -3,6 +3,9 @@
   "displayName": "Simpleton",
   "description": "Syntax highlighting for Simpleton scripting language: https://github.com/Mkdirs/simpleton",
   "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/Mkdirs/simpleton-vscode-extension"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
