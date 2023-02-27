@@ -2,7 +2,7 @@
   "name": "simpleton",
   "displayName": "Simpleton",
   "description": "Syntax highlighting for Simpleton scripting language: https://github.com/Mkdirs/simpleton",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.75.0"
   },
